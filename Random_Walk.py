@@ -17,8 +17,6 @@ def roll():
 # 0: stay in the same position
 # -1: move one step in the negative direction
 possibilities = [1, 0, -1]
-
-
 # --- Point Class ---
 
 # A 'class' is a blueprint for creating objects. The 'Point' class represents a single moving entity on the grid.
